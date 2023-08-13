@@ -1,0 +1,12 @@
+This is file2.txt
+   It will contain the names of students who already have the scholarship scheme running
+   1) Hanna
+   2) Picter
+   3) pinu
+   4) gileat
+   5) Paul
+   6) Amaka
+   7) Github
+   8) Sillopi
+   9) Julius
+   10) Namdi
